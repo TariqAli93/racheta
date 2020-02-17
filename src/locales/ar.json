@@ -1,0 +1,61 @@
+{
+    "sidebar": {
+        "home": "الرئيسية",
+        "clinics": "العيادات",
+        "addClinic": "اضافة عيادة",
+        "allClinics": "جميع العيادات",
+        "users": "المستخدمين",
+        "addUser": "اضافة مستخدم",
+        "allUsers": "جميع المستخدمين",
+        "reports": "التقارير"
+    },
+    "pagesTitle": {
+        "home": "الرئيسية",
+        "clinics":"العيادات",
+        "users":"المستخدمين",
+        "reports":"التقارير"
+    },
+    "navUserDropdown": {
+        "profile": "الملف الشخصي",
+        "logout": "تسجيل الخروج"
+    },
+    "login": {
+        "username": "اسم المستخدم",
+        "password": "كلمة المرور",
+        "loginText": "تسجيل الدخول",
+        "usernameEmpty": "لا يمكن ترك اسم المستخدم فارغ",
+        "passwordEmpty": "لا يمكن ترك كلمة المرور فارغة",
+        "errorText": "حدث خطأ في ارسال البيانات",
+        "error": "اسم المستخدم او كلمة المرور خطأ",
+        "successText": "تم تسجيل الدخول . سيتم تحويلك الان!"
+    },
+    "addClinic": {
+        "add": "اضافة عيادة",
+        "name": "اسم العيادة",
+        "specialization": "التخصصات",
+        "governorate": "المحافظة",
+        "district": "المنطقة",
+        "licence": "رقم الرخصة",
+        "mapLocation": "الموقع على الخريطة",
+        "placeType": "نوع المركز",
+        "errorText":"يرجى اكمال جميع الحقول",
+        "successText": "تم الاضافة بنجاح",
+        "rules": {
+            "name": "لا يمكن ترك اسم العيادة فارغ",
+            "specialization": "لا يمكن ترك التخصصات فارغة",
+            "governorate": "يرجى اختيار المحافظة",
+            "district": "يرجى كتابة اسم المنطقة",
+            "licence": "يرجى ادخال رقم الرخصة",
+            "place": "يرجى تحديد نوع العيادة"
+        },
+        "table": {
+            "page-title": "العيادات و الصيدليات",
+            "title": "العنوان",
+            "description": "التخصصات",
+            "licence":"رقم الرخصة",
+            "address": "المنطقة",
+            "province": "المحافظة",
+            "placeType": "نوع المركز"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "sidebar": {
+        "home": "Home",
+        "clinics": "Clinics",
+        "addClinic": "add clinic",
+        "allClinics": "all Clinics",
+        "users": "Users",
+        "addUser": "add User",
+        "allUsers": "all Users",
+        "reports": "Reports"
+    },
+    "pagesTitle": {
+        "home": "Home Page",
+        "clinics":"Clinics",
+        "users":"Users",
+        "reports":"Reports"
+    },
+    "navUserDropdown": {
+        "profile": "Profile",
+        "logout": "Logout"
+    },
+    "login": {
+        "username": "username",
+        "password": "password",
+        "loginText": "login",
+        "usernameEmpty": "Username Empty",
+        "passwordEmpty": "password Empty",
+        "errorText": "login failed",
+        "error": "Username Or Password is incorrect",
+        "successText": "Login Successfuly ."
+    },
+    "addClinic": {
+        "add": "add clinic",
+        "name": "clinic name",
+        "specialization": "specialization",
+        "governorate": "governorate",
+        "district": "district",
+        "licence": "licence number",
+        "mapLocation": "map lat & long",
+        "placeType": "clinic type",
+        "errorText":"Please complete all fields",
+        "successText": "added successfuly",
+        "rules": {
+            "name": "clinic name requierd",
+            "specialization": "specialization requierd",
+            "governorate": "governorate requierd",
+            "district": "district requierd",
+            "licence": "licence number requierd",
+            "place": "place type requierd"
+        },
+        "table": {
+            "page-title": "clinics and pharmcy",
+            "title": "title",
+            "description": "specialization",
+            "licence":"licence number",
+            "address": "district",
+            "province": "governorate",
+            "placeType": "clinic type"
+        }
+    }
+}
